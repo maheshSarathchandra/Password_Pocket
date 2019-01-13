@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Password</string>
+    <string name="add_button">Add</string>
+    <string name="show_button">Show</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="edit_Text"></string>
+    <string name="add_new">sucessful added</string>
+    <string name="add_old">something went wrong</string>
+    <string name="not_name">no ID associate with name</string>
+    <string name="save_button">Save</string>
+    <string name="delete_button">delete</string>
+    <string name="editdata_text"></string>
+    <string name="password">you must enter the password</string>
+    <string name="delete">remove from the database</string>
+</resources>
